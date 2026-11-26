@@ -1,0 +1,222 @@
+INSTNM,CITY,STABBR,control,tier_name,accessible,ADM_RATE,net_price_low_income,kq5_cond_parq1,par_q1,mr_kq5_pq1,completion,MD_EARN_WNE_INC1_P10,PCTPELL,ec_parent_ses_college
+Cal Poly Maritime Academy,Vallejo,CA,Public,Selective public,True,0.950,11732.000,84.975,5.927,5.036,0.584,109049.000,0.306,1.460
+Claremont McKenna College,Claremont,CA,Private nonprofit,Other elite schools (public and private),False,0.096,5423.000,68.283,4.334,2.959,0.899,,0.183,1.604
+California Institute of Technology,Pasadena,CA,Private nonprofit,Other elite schools (public and private),False,0.026,7553.000,66.062,4.810,3.178,0.898,163160.000,0.228,1.525
+New Jersey Institute of Technology,Newark,NJ,Public,Selective public,True,0.651,12394.000,63.791,10.139,6.468,0.721,88192.000,0.425,1.278
+Stanford University,Stanford,CA,Private nonprofit,Ivy Plus,False,0.036,1067.000,62.739,3.580,2.246,0.916,104986.000,0.219,1.528
+University of Notre Dame,Notre Dame,IN,Private nonprofit,Other elite schools (public and private),False,0.113,8380.000,62.399,1.438,0.897,0.954,111849.000,0.168,1.615
+Tufts University,Medford,MA,Private nonprofit,Other elite schools (public and private),False,0.115,4195.000,62.167,3.421,2.127,0.936,74939.000,0.145,1.578
+Massachusetts Maritime Academy,Buzzards Bay,MA,Public,Selective public,True,0.947,4385.000,61.262,3.254,1.994,0.735,103871.000,0.219,1.490
+Columbia University in the City of New York,New York,NY,Private nonprofit,Ivy Plus,False,0.040,2275.000,61.217,5.021,3.074,0.952,104747.000,0.254,1.518
+Georgetown University,Washington,DC,Private nonprofit,Other elite schools (public and private),False,0.129,10252.000,61.020,3.189,1.946,0.943,98610.000,0.128,1.582
+Colby College,Waterville,ME,Private nonprofit,Other elite schools (public and private),False,0.071,5263.000,60.828,1.486,0.904,0.870,79387.000,0.164,1.482
+Cornell University,Ithaca,NY,Private nonprofit,Ivy Plus,False,0.088,6371.000,59.354,4.898,2.907,0.946,107681.000,0.220,1.555
+Vanderbilt University,Nashville,TN,Private nonprofit,Other elite schools (public and private),False,0.059,3637.000,59.296,2.482,1.472,0.926,101053.000,0.248,1.569
+Johns Hopkins University,Baltimore,MD,Private nonprofit,Other elite schools (public and private),False,0.064,1772.000,58.616,3.670,2.151,0.934,96127.000,0.228,1.549
+Lafayette College,Easton,PA,Private nonprofit,Other elite schools (public and private),False,0.315,11822.000,58.546,2.779,1.627,0.854,91779.000,0.137,1.611
+Georgia Institute of Technology-Main Campus,Atlanta,GA,Public,Highly selective public,False,0.141,7687.000,57.459,3.233,1.858,0.937,112112.000,0.168,1.601
+Yale University,New Haven,CT,Private nonprofit,Ivy Plus,False,0.039,1256.000,57.303,3.633,2.082,0.963,112292.000,0.238,1.564
+Boston College,Chestnut Hill,MA,Private nonprofit,Other elite schools (public and private),False,0.164,7293.000,56.211,2.852,1.603,0.898,102323.000,0.173,1.560
+University of California-Irvine,Irvine,CA,Public,Highly selective public,False,0.286,6160.000,55.265,12.247,6.768,0.866,80743.000,0.370,1.277
+University of California-Berkeley,Berkeley,CA,Public,Highly selective public,False,0.110,5110.000,55.247,8.842,4.885,0.937,93362.000,0.320,1.426
+Northwestern University,Evanston,IL,Private nonprofit,Other elite schools (public and private),False,0.077,1427.000,55.186,3.070,1.694,0.961,105804.000,0.214,1.582
+University of California-San Diego,La Jolla,CA,Public,Highly selective public,False,0.267,9229.000,55.060,8.777,4.833,0.860,92264.000,0.381,1.377
+University of California-Los Angeles,Los Angeles,CA,Public,Other elite schools (public and private),False,0.090,7755.000,54.637,10.243,5.596,0.928,85065.000,0.319,1.390
+Middlebury College,Middlebury,VT,Private nonprofit,Other elite schools (public and private),False,0.107,7548.000,54.600,2.322,1.268,0.925,101038.000,0.191,1.582
+Trinity College,Hartford,CT,Private nonprofit,Highly selective private,False,0.292,7222.000,54.563,3.645,1.989,0.831,85501.000,0.155,1.495
+Binghamton University,Vestal,NY,Public,Highly selective public,False,0.386,11463.000,53.978,9.425,5.088,0.820,86788.000,0.307,1.455
+California Polytechnic State University-San Luis Obispo,San Luis Obispo,CA,Public,Selective public,False,0.313,10354.000,53.569,4.197,2.248,0.866,91424.000,0.233,1.611
+Washington University in St Louis,St. Louis,MO,Private nonprofit,Other elite schools (public and private),False,0.121,2578.000,53.508,1.938,1.037,0.927,83324.000,0.220,1.633
+Brown University,Providence,RI,Private nonprofit,Ivy Plus,False,0.054,39.000,53.072,2.918,1.549,0.956,94709.000,0.165,1.533
+Pomona College,Claremont,CA,Private nonprofit,Other elite schools (public and private),False,0.071,5297.000,52.981,3.681,1.950,0.921,85720.000,0.228,1.428
+Carleton College,Northfield,MN,Private nonprofit,Other elite schools (public and private),False,0.204,12275.000,52.945,2.580,1.366,0.886,83310.000,0.201,1.507
+University of Virginia-Main Campus,Charlottesville,VA,Public,Other elite schools (public and private),False,0.168,9479.000,51.818,2.821,1.462,0.944,90114.000,0.193,1.631
+University of California-Davis,Davis,CA,Public,Selective public,False,0.418,8770.000,51.770,8.584,4.444,0.857,84462.000,0.357,1.347
+The Cooper Union for the Advancement of Science and Art,New York,NY,Private nonprofit,Other elite schools (public and private),False,0.207,2325.000,51.647,8.283,4.278,0.818,78951.000,0.300,
+Washington and Lee University,Lexington,VA,Private nonprofit,Other elite schools (public and private),False,0.140,28.000,51.023,1.119,0.571,0.959,88928.000,0.140,1.588
+Brandeis University,Waltham,MA,Private nonprofit,Other elite schools (public and private),False,0.405,10028.000,50.940,4.001,2.038,0.810,85343.000,0.200,1.528
+Duke University,Durham,NC,Private nonprofit,Ivy Plus,False,0.057,6652.000,50.391,3.180,1.603,0.961,104579.000,0.187,1.581
+University of Michigan-Ann Arbor,Ann Arbor,MI,Public,Highly selective public,False,0.156,3155.000,50.350,2.996,1.508,0.932,86209.000,0.217,1.463
+George Mason University,Fairfax,VA,Public,Selective public,True,0.875,9594.000,50.281,6.146,3.090,0.665,80733.000,0.345,1.573
+Emory University,Atlanta,GA,Private nonprofit,Other elite schools (public and private),False,0.106,10593.000,49.876,3.610,1.801,0.910,93315.000,0.206,1.520
+Dartmouth College,Hanover,NH,Private nonprofit,Ivy Plus,False,0.054,1399.000,49.660,2.771,1.376,0.953,105667.000,0.173,1.540
+University of California-Santa Barbara,Santa Barbara,CA,Public,Highly selective public,False,0.330,9523.000,49.512,6.212,3.075,0.836,80132.000,0.317,1.395
+Swarthmore College,Swarthmore,PA,Private nonprofit,Other elite schools (public and private),False,0.075,6966.000,49.128,4.653,2.286,0.916,72813.000,0.244,1.487
+Rice University,Houston,TX,Private nonprofit,Other elite schools (public and private),False,0.080,5707.000,48.732,3.290,1.603,0.953,101076.000,0.217,1.589
+College of the Holy Cross,Worcester,MA,Private nonprofit,Other elite schools (public and private),False,0.176,9931.000,48.680,2.055,1.000,0.864,86561.000,0.162,1.457
+Virginia Polytechnic Institute and State University,Blacksburg,VA,Public,Highly selective public,True,0.548,11378.000,47.519,2.845,1.352,0.859,89011.000,0.174,1.583
+Augustana College,Rock Island,IL,Private nonprofit,Highly selective private,True,0.627,7890.000,46.925,2.131,1.000,0.726,57419.000,0.280,1.472
+Wesleyan University,Middletown,CT,Private nonprofit,Other elite schools (public and private),False,0.165,3557.000,46.785,4.197,1.964,0.900,88866.000,0.142,1.546
+San Jose State University,San Jose,CA,Public,Selective public,True,0.846,10381.000,46.557,11.659,5.428,0.677,82247.000,0.388,1.273
+Muhlenberg College,Allentown,PA,Private nonprofit,Highly selective private,True,0.720,11831.000,46.548,2.210,1.029,0.833,67473.000,0.285,1.731
+Amherst College,Amherst,MA,Private nonprofit,Other elite schools (public and private),False,0.090,2424.000,46.468,4.222,1.962,0.925,89823.000,0.252,1.483
+California State Polytechnic University-Pomona,Pomona,CA,Public,Selective public,True,0.752,6245.000,45.770,14.930,6.833,0.678,74650.000,0.512,1.337
+University of Washington-Seattle Campus,Seattle,WA,Public,Selective public,False,0.392,7610.000,45.586,5.379,2.452,0.853,77300.000,0.187,1.302
+University of Chicago,Chicago,IL,Private nonprofit,Ivy Plus,False,0.045,394.000,45.087,4.305,1.941,0.950,95085.000,0.173,1.562
+The University of Texas at Austin,Austin,TX,Public,Highly selective public,False,0.266,8979.000,44.461,4.999,2.223,0.892,77119.000,0.286,1.477
+Skidmore College,Saratoga Springs,NY,Private nonprofit,Highly selective private,False,0.210,10554.000,44.459,4.444,1.976,0.819,66735.000,0.152,1.559
+SUNY College at Geneseo,Geneseo,NY,Public,Highly selective public,True,0.664,9753.000,44.039,3.966,1.747,0.703,67848.000,0.288,1.513
+California State University-East Bay,Hayward,CA,Public,Selective public,True,0.974,4576.000,43.980,9.888,4.349,0.490,70825.000,0.494,1.120
+Wellesley College,Wellesley,MA,Private nonprofit,Other elite schools (public and private),False,0.141,11253.000,43.611,5.522,2.408,0.908,89324.000,0.247,1.495
+Hood College,Frederick,MD,Private nonprofit,Selective private,True,0.778,8587.000,43.535,6.399,2.786,0.541,58432.000,0.386,1.554
+Virginia Military Institute,Lexington,VA,Public,Selective public,True,0.713,10028.000,43.328,4.604,1.995,0.718,85600.000,0.211,1.576
+University of Florida,Gainesville,FL,Public,Highly selective public,False,0.242,1968.000,42.790,6.097,2.609,0.921,77166.000,0.239,1.379
+The University of Texas at Dallas,Richardson,TX,Public,Highly selective public,True,0.651,10562.000,42.036,5.781,2.430,0.792,70898.000,0.321,1.470
+St Olaf College,Northfield,MN,Private nonprofit,Highly selective private,False,0.483,10797.000,41.659,1.851,0.771,0.832,63083.000,0.242,1.475
+Bowdoin College,Brunswick,ME,Private nonprofit,Other elite schools (public and private),False,0.071,3318.000,41.532,2.636,1.095,0.928,81388.000,0.203,1.511
+Bates College,Lewiston,ME,Private nonprofit,Other elite schools (public and private),False,0.133,1899.000,41.293,1.836,0.758,0.881,91129.000,0.136,1.576
+McDaniel College,Westminster,MD,Private nonprofit,Selective private,True,0.779,8938.000,41.237,3.858,1.591,0.561,57653.000,0.404,1.479
+Grinnell College,Grinnell,IA,Private nonprofit,Highly selective private,False,0.145,8161.000,41.188,3.533,1.455,0.865,72414.000,0.223,1.439
+University of California-Riverside,Riverside,CA,Public,Selective public,True,0.764,6871.000,41.021,14.669,6.017,0.751,70168.000,0.489,1.206
+San Diego State University,San Diego,CA,Public,Selective public,False,0.362,8258.000,40.784,8.979,3.662,0.780,70392.000,0.354,1.379
+Kalamazoo College,Kalamazoo,MI,Private nonprofit,Highly selective private,True,0.753,12248.000,40.631,2.691,1.093,0.744,64972.000,0.280,1.578
+Wake Forest University,Winston-Salem,NC,Private nonprofit,Other elite schools (public and private),False,0.217,6242.000,40.345,1.788,0.721,0.903,96808.000,0.119,1.567
+Ramapo College of New Jersey,Mahwah,NJ,Public,Highly selective public,True,0.706,8185.000,40.181,6.243,2.508,0.677,65541.000,0.315,1.503
+California State University-Fullerton,Fullerton,CA,Public,Selective public,True,0.905,2620.000,39.611,12.116,4.799,0.679,67048.000,0.534,1.254
+Haverford College,Haverford,PA,Private nonprofit,Other elite schools (public and private),False,0.124,4081.000,39.358,4.568,1.798,0.890,73012.000,0.156,1.537
+University of Delaware,Newark,DE,Public,Selective public,True,0.706,5566.000,38.988,2.233,0.871,0.783,73733.000,0.196,1.580
+Westminster College,New Wilmington,PA,Private nonprofit,Selective private,True,0.926,11983.000,38.932,4.718,1.837,0.598,53807.000,0.325,1.202
+William & Mary,Williamsburg,VA,Public,Other elite schools (public and private),False,0.341,3292.000,38.899,1.346,0.524,0.883,81152.000,0.150,1.647
+Stevenson University,Owings Mills,MD,Private nonprofit,Selective private,True,0.789,10728.000,38.386,4.238,1.627,0.670,62769.000,0.363,1.486
+California State University-Long Beach,Long Beach,CA,Public,Selective public,False,0.463,6443.000,38.176,11.606,4.431,0.703,67154.000,0.539,1.260
+University of California-Santa Cruz,Santa Cruz,CA,Public,Selective public,True,0.658,9973.000,37.560,7.375,2.770,0.737,69843.000,0.343,1.270
+Smith College,Northampton,MA,Private nonprofit,Highly selective private,False,0.210,2541.000,37.488,5.026,1.884,0.858,69448.000,0.221,1.496
+State University of New York at New Paltz,New Paltz,NY,Public,Selective public,True,0.616,11710.000,37.273,9.897,3.689,0.687,64710.000,0.347,1.404
+Colgate University,Hamilton,NY,Private nonprofit,Other elite schools (public and private),False,0.139,8610.000,36.536,2.392,0.874,0.888,99244.000,0.146,1.591
+University of Michigan-Dearborn,Dearborn,MI,Public,Selective public,True,0.556,5084.000,36.130,6.598,2.384,0.605,61925.000,0.509,1.349
+Oregon Institute of Technology,Klamath Falls,OR,Public,Selective public,True,0.950,11457.000,36.085,9.761,3.522,0.457,77045.000,0.199,1.208
+University of Central Florida,Orlando,FL,Public,Selective public,False,0.401,7870.000,35.995,7.217,2.598,0.778,60634.000,0.368,1.344
+Iowa State University,Ames,IA,Public,Selective public,True,0.887,11957.000,35.569,3.684,1.310,0.767,60516.000,0.226,1.331
+Colorado State University-Fort Collins,Fort Collins,CO,Public,Selective public,True,0.885,12291.000,35.422,3.161,1.120,0.676,62462.000,0.236,1.393
+Bryn Mawr College,Bryn Mawr,PA,Private nonprofit,Other elite schools (public and private),False,0.294,7183.000,35.416,5.157,1.826,0.832,79680.000,0.172,1.581
+Goucher College,Baltimore,MD,Private nonprofit,Selective private,True,0.777,9747.000,35.345,6.166,2.179,0.562,54171.000,0.371,1.498
+University of Georgia,Athens,GA,Public,Highly selective public,False,0.377,8995.000,35.244,3.012,1.061,0.891,73437.000,0.196,1.532
+Florida International University,Miami,FL,Public,Selective public,True,0.547,9529.000,34.801,15.014,5.225,0.776,64182.000,0.433,1.155
+University of North Dakota,Grand Forks,ND,Public,Selective public,True,0.769,11857.000,34.776,4.519,1.571,0.610,61757.000,0.203,1.360
+San Francisco State University,San Francisco,CA,Public,Selective public,True,0.964,6699.000,34.707,10.071,3.496,0.503,72262.000,0.464,1.233
+Sonoma State University,Rohnert Park,CA,Public,Selective public,True,0.934,6973.000,34.428,5.017,1.727,0.553,68647.000,0.405,1.514
+Florida State University,Tallahassee,FL,Public,Selective public,False,0.242,4332.000,34.193,6.332,2.165,0.858,63951.000,0.254,1.451
+University of North Carolina School of the Arts,Winston Salem,NC,Public,Nonselective four-year public,False,0.300,5960.000,34.037,4.075,1.387,0.803,43802.000,0.324,1.516
+Michigan State University,East Lansing,MI,Public,Selective public,True,0.848,11741.000,33.920,4.091,1.388,0.803,66257.000,0.237,1.329
+Illinois State University,Normal,IL,Public,Selective public,True,0.881,12040.000,33.603,3.215,1.080,0.673,64068.000,0.376,1.457
+Montclair State University,Montclair,NJ,Public,Selective public,True,0.879,10117.000,33.518,9.459,3.171,0.656,60254.000,0.525,1.363
+University of North Carolina at Chapel Hill,Chapel Hill,NC,Public,Other elite schools (public and private),False,0.153,2212.000,33.301,3.459,1.152,0.911,74080.000,0.213,1.461
+Canisius University,Buffalo,NY,Private nonprofit,Selective private,True,0.724,11897.000,33.110,7.129,2.361,0.614,58182.000,0.349,1.323
+Washington State University,Pullman,WA,Public,Selective public,True,0.866,6750.000,32.863,4.517,1.484,0.628,67195.000,0.349,1.359
+North Dakota State University-Main Campus,Fargo,ND,Public,Selective public,True,0.950,11551.000,32.840,5.157,1.694,0.655,62457.000,0.248,1.310
+California State University-Bakersfield,Bakersfield,CA,Public,Selective public,True,0.939,2097.000,32.760,14.065,4.608,0.482,58815.000,0.649,1.084
+California State University-Monterey Bay,Seaside,CA,Public,Selective public,True,0.974,10966.000,32.266,10.498,3.387,0.625,61645.000,0.485,1.357
+California State University-Chico,Chico,CA,Public,Selective public,True,0.927,9227.000,32.181,6.086,1.958,0.603,65138.000,0.460,1.362
+University of Northern Iowa,Cedar Falls,IA,Public,Selective public,True,0.927,11415.000,31.967,3.509,1.122,0.686,54487.000,0.280,1.269
+California State University-Northridge,Northridge,CA,Public,Selective public,True,0.934,4429.000,31.953,19.794,6.325,0.568,61715.000,0.611,1.097
+California State University-Sacramento,Sacramento,CA,Public,Selective public,True,0.940,8392.000,31.888,10.453,3.333,0.544,67856.000,0.531,1.245
+North Carolina State University at Raleigh,Raleigh,NC,Public,Selective public,False,0.417,6149.000,31.746,4.257,1.351,0.849,72415.000,0.233,1.419
+Mitchell Technical College,Mitchell,SD,Public,Two-year (public and private not-for-profit),True,,6585.000,31.681,9.865,3.125,0.791,43107.000,0.311,0.845
+California State University-Channel Islands,Camarillo,CA,Public,Nonselective four-year public,True,0.948,5195.000,31.521,5.069,1.598,0.549,63235.000,0.523,1.417
+Purdue University-Main Campus,West Lafayette,IN,Public,Selective public,False,0.499,6147.000,31.517,3.183,1.003,0.840,72876.000,0.157,1.394
+Ursuline College,Pepper Pike,OH,Private nonprofit,Selective private,True,0.749,12047.000,31.467,5.425,1.707,0.554,58479.000,0.499,
+Saint Xavier University,Chicago,IL,Private nonprofit,Selective private,True,0.843,7369.000,31.383,8.911,2.797,0.548,60048.000,0.659,1.161
+California State University-San Bernardino,San Bernardino,CA,Public,Selective public,True,0.937,2331.000,31.198,14.098,4.398,0.530,59726.000,0.631,1.048
+Mount St. Mary's University,Emmitsburg,MD,Private nonprofit,Selective private,True,0.738,7210.000,31.147,3.125,0.973,0.613,62823.000,0.353,1.542
+Gustavus Adolphus College,Saint Peter,MN,Private nonprofit,Highly selective private,True,0.610,12078.000,31.143,2.144,0.668,0.773,62308.000,0.240,1.419
+Fitchburg State University,Fitchburg,MA,Public,Selective public,True,0.869,10379.000,30.897,5.654,1.747,0.528,56525.000,0.395,1.339
+Williams College,Williamstown,MA,Private nonprofit,Other elite schools (public and private),False,0.083,2291.000,30.870,3.196,0.987,0.953,89452.000,0.162,1.490
+Kean University,Union,NJ,Public,Selective public,True,0.759,8338.000,30.801,11.099,3.419,0.485,57953.000,0.537,1.159
+North Dakota State College of Science,Wahpeton,ND,Public,Two-year (public and private not-for-profit),True,,8873.000,30.599,9.716,2.973,0.538,50314.000,0.210,1.050
+State University of New York at Cortland,Cortland,NY,Public,Selective public,True,0.598,11186.000,30.463,5.657,1.723,0.722,62474.000,0.292,1.498
+University of Oklahoma-Norman Campus,Norman,OK,Public,Selective public,True,0.766,11203.000,30.456,6.319,1.924,0.747,61673.000,0.291,1.432
+Northern Illinois University,Dekalb,IL,Public,Selective public,True,0.698,12319.000,30.334,5.389,1.635,0.485,56614.000,0.517,1.189
+University of Wyoming,Laramie,WY,Public,Selective public,True,0.969,9037.000,30.202,4.987,1.506,0.614,60279.000,0.280,1.377
+Albion College,Albion,MI,Private nonprofit,Selective private,True,0.807,10470.000,30.077,2.265,0.681,0.571,63171.000,0.488,1.375
+California State University-Los Angeles,Los Angeles,CA,Public,Selective public,True,0.912,1364.000,29.950,33.117,9.918,0.546,60728.000,0.698,0.804
+Oberlin College,Oberlin,OH,Private nonprofit,Other elite schools (public and private),False,0.342,12176.000,29.863,4.179,1.248,0.809,56499.000,0.132,1.608
+Davidson College,Davidson,NC,Private nonprofit,Other elite schools (public and private),False,0.134,3629.000,29.689,1.382,0.410,0.901,93871.000,0.203,1.586
+Brigham Young University,Provo,UT,Private nonprofit,Selective private,True,0.678,9893.000,29.568,2.200,0.651,0.807,88176.000,0.350,1.649
+Dickinson State University,Dickinson,ND,Public,Selective public,False,0.370,12038.000,29.488,13.897,4.098,0.404,53751.000,0.251,1.323
+Western Michigan University,Kalamazoo,MI,Public,Selective public,True,0.846,5317.000,29.115,3.453,1.005,0.586,52224.000,0.319,1.243
+Ohlone College,Fremont,CA,Public,Two-year (public and private not-for-profit),True,,6647.000,29.006,7.122,2.066,0.559,,0.145,1.439
+University of Nevada-Las Vegas,Las Vegas,NV,Public,Selective public,True,0.962,9250.000,28.984,6.514,1.888,0.517,59605.000,0.447,1.255
+California State University-Stanislaus,Turlock,CA,Public,Selective public,True,0.981,1658.000,28.875,13.350,3.855,0.522,63847.000,0.597,1.277
+University of South Florida,Tampa,FL,Public,Selective public,False,0.432,5565.000,28.787,9.550,2.749,0.779,60851.000,0.332,1.264
+Central Connecticut State University,New Britain,CT,Public,Selective public,True,0.733,12144.000,28.772,5.061,1.456,0.497,61607.000,0.420,1.363
+Truman State University,Kirksville,MO,Public,Selective public,True,0.838,9768.000,28.756,2.608,0.750,0.741,52942.000,0.197,1.332
+University of Vermont,Burlington,VT,Public,Selective public,True,0.653,11915.000,28.594,4.113,1.176,0.812,62341.000,0.163,1.489
+The University of Texas at Tyler,Tyler,TX,Public,Nonselective four-year public,True,0.940,11531.000,28.548,7.488,2.138,0.471,54231.000,0.464,1.357
+University of Nevada-Reno,Reno,NV,Public,Selective public,True,0.737,11183.000,28.515,4.089,1.166,0.604,63901.000,0.275,1.365
+Georgetown College,Georgetown,KY,Private nonprofit,Selective private,True,0.911,8445.000,28.312,5.168,1.463,0.490,53174.000,0.418,1.122
+Farmingdale State College,Farmingdale,NY,Public,Selective public,True,0.633,649.000,28.292,8.949,2.532,0.485,72821.000,0.406,1.460
+Eastern Washington University,Cheney,WA,Public,Selective public,True,0.907,9938.000,28.166,6.826,1.923,0.432,60752.000,0.414,1.279
+Old Dominion University,Norfolk,VA,Public,Selective public,True,0.904,8610.000,28.023,8.460,2.371,0.431,57395.000,0.406,1.348
+SUNY Brockport,Brockport,NY,Public,Selective public,True,0.707,11658.000,27.918,5.827,1.627,0.503,56282.000,0.433,1.292
+Centre College,Danville,KY,Private nonprofit,Highly selective private,True,0.544,11861.000,27.521,2.513,0.692,0.791,57924.000,0.297,1.462
+Salem State University,Salem,MA,Public,Selective public,True,0.959,8474.000,27.450,7.040,1.933,0.488,60732.000,0.414,1.309
+Holy Family University,Philadelphia,PA,Private nonprofit,Selective private,True,0.710,9924.000,27.311,6.223,1.700,0.671,65357.000,0.457,1.152
+University of North Florida,Jacksonville,FL,Public,Selective public,True,0.532,8358.000,27.209,6.225,1.694,0.685,57080.000,0.349,1.401
+Texas Woman's University,Denton,TX,Public,Selective public,True,0.961,9412.000,27.058,9.365,2.534,0.489,56216.000,0.488,1.224
+Saint Peter's University,Jersey City,NJ,Private nonprofit,Selective private,True,0.903,7370.000,26.858,20.469,5.497,0.545,56506.000,0.594,0.928
+Florida Atlantic University,Boca Raton,FL,Public,Selective public,True,0.661,5257.000,26.415,11.624,3.070,0.644,59541.000,0.371,1.282
+California State University-Fresno,Fresno,CA,Public,Selective public,True,0.953,3925.000,26.241,15.951,4.186,0.582,59255.000,0.619,1.083
+University of Michigan-Flint,Flint,MI,Public,Selective public,True,0.705,5807.000,26.016,6.243,1.624,0.429,52817.000,0.446,1.069
+Eastern Illinois University,Charleston,IL,Public,Selective public,True,0.653,9813.000,25.890,3.730,0.966,0.495,50742.000,0.313,1.245
+Empire State University,Saratoga Springs,NY,Public,Nonselective four-year public,True,,8809.000,25.705,14.019,3.604,0.478,50201.000,0.429,
+Niagara University,Niagara University,NY,Private nonprofit,Selective private,True,0.874,7865.000,25.686,5.839,1.500,0.634,56370.000,0.296,1.336
+Midland College,Midland,TX,Public,Nonselective four-year public,True,,3346.000,25.686,18.844,4.840,,,0.247,1.162
+SUNY Oneonta,Oneonta,NY,Public,Selective public,True,0.696,11057.000,25.669,7.017,1.801,0.661,60051.000,0.395,1.375
+SUNY at Fredonia,Fredonia,NY,Public,Selective public,True,0.777,8916.000,25.250,4.593,1.160,0.553,55567.000,0.408,1.319
+Lawrence University,Appleton,WI,Private nonprofit,Highly selective private,True,0.639,12417.000,25.144,4.587,1.153,0.787,55253.000,0.274,1.415
+University of North Carolina at Charlotte,Charlotte,NC,Public,Selective public,True,0.796,9782.000,25.022,6.546,1.638,0.682,61042.000,0.386,1.242
+Bismarck State College,Bismarck,ND,Public,Nonselective four-year public,True,,6024.000,24.955,10.096,2.519,,49538.000,0.188,1.215
+Madonna University,Livonia,MI,Private nonprofit,Selective private,True,0.634,11894.000,24.780,6.603,1.636,0.536,56831.000,0.323,1.356
+Notre Dame of Maryland University,Baltimore,MD,Private nonprofit,Selective private,True,0.822,9149.000,24.750,9.051,2.240,0.442,61042.000,0.427,
+State University of New York at Plattsburgh,Plattsburgh,NY,Public,Selective public,True,0.784,8592.000,24.627,8.287,2.041,0.557,56854.000,0.434,1.291
+SUNY Old Westbury,Old Westbury,NY,Public,Selective public,True,0.836,4597.000,24.483,20.588,5.041,0.426,62936.000,0.534,0.926
+Worcester State University,Worcester,MA,Public,Selective public,True,0.880,9813.000,24.392,6.130,1.495,0.571,60967.000,0.343,1.263
+The University of Texas at El Paso,El Paso,TX,Public,Selective public,True,0.999,5623.000,24.359,28.001,6.821,0.508,52471.000,0.671,0.829
+Colorado State University Pueblo,Pueblo,CO,Public,Selective public,True,0.949,6698.000,24.315,10.222,2.486,0.415,51584.000,0.306,1.050
+The University of Texas Permian Basin,Odessa,TX,Public,Nonselective four-year public,True,0.949,4785.000,24.249,12.323,2.988,0.408,58394.000,0.455,1.326
+Western Illinois University,Macomb,IL,Public,Selective public,True,0.712,3427.000,24.199,4.772,1.155,0.494,51467.000,0.304,1.131
+SUNY at Purchase College,Purchase,NY,Public,Selective public,True,0.741,11745.000,24.162,7.611,1.839,0.611,55875.000,0.395,1.428
+Illinois College,Jacksonville,IL,Private nonprofit,Selective private,True,0.782,11937.000,24.132,5.875,1.418,0.609,53878.000,0.406,1.159
+Portland State University,Portland,OR,Public,Selective public,True,0.909,6255.000,24.100,8.345,2.011,0.529,59617.000,0.463,1.192
+Weber State University,Ogden,UT,Public,Selective public,True,,8415.000,23.895,3.605,0.862,,57168.000,0.174,1.358
+University of Mississippi,University,MS,Public,Selective public,True,0.966,10536.000,23.683,6.976,1.652,0.703,50633.000,0.243,1.182
+Goshen College,Goshen,IN,Private nonprofit,Selective private,True,0.841,11945.000,23.420,4.634,1.085,0.594,54867.000,0.422,1.361
+California State University-San Marcos,San Marcos,CA,Public,Selective public,True,0.951,7618.000,23.294,9.001,2.097,0.549,64773.000,0.468,1.330
+Warren County Community College,Washington,NJ,Public,Two-year (public and private not-for-profit),True,,776.000,23.113,9.967,2.304,0.444,45486.000,0.480,1.220
+Pittsburg State University,Pittsburg,KS,Public,Selective public,True,0.894,12043.000,22.992,6.653,1.530,0.484,48366.000,0.357,1.109
+Westfield State University,Westfield,MA,Public,Selective public,True,0.814,11786.000,22.829,3.941,0.900,0.486,57775.000,0.393,1.396
+The University of Texas at San Antonio,San Antonio,TX,Public,Selective public,True,0.868,7752.000,22.793,12.805,2.919,0.516,58154.000,0.494,1.264
+Colorado Mesa University,Grand Junction,CO,Public,Selective public,True,0.820,12158.000,22.757,8.820,2.007,,44826.000,0.338,1.053
+Odessa College,Odessa,TX,Public,Two-year (public and private not-for-profit),True,,5159.000,22.723,20.728,4.710,,44234.000,0.237,1.123
+University of Tulsa,Tulsa,OK,Private nonprofit,Highly selective private,True,0.615,9403.000,22.705,5.068,1.151,0.689,54979.000,0.297,1.471
+Sam Houston State University,Huntsville,TX,Public,Selective public,True,0.903,11734.000,22.620,9.087,2.055,0.555,54229.000,0.471,1.358
+University of West Florida,Pensacola,FL,Public,Selective public,True,0.582,9456.000,22.498,8.897,2.002,0.595,50662.000,0.374,1.245
+Georgian Court University,Lakewood,NJ,Private nonprofit,Selective private,True,0.788,6227.000,22.465,9.366,2.104,0.627,49240.000,0.374,1.267
+Northwest Iowa Community College,Sheldon,IA,Public,Two-year (public and private not-for-profit),True,,9584.000,22.443,7.168,1.609,0.622,50056.000,0.183,
+Georgia State University,Atlanta,GA,Public,Selective public,True,0.554,10899.000,22.334,9.306,2.078,0.510,47716.000,0.565,1.131
+Florida Gulf Coast University,Fort Myers,FL,Public,Selective public,True,0.634,8096.000,22.297,8.421,1.878,0.569,57175.000,0.322,1.357
+Midwestern State University,Wichita Falls,TX,Public,Selective public,True,0.935,10505.000,22.185,9.029,2.003,0.419,55114.000,0.467,1.124
+Radford University,Radford,VA,Public,Selective public,True,0.895,9553.000,21.965,4.404,0.967,0.480,57300.000,0.444,1.295
+Williston State College,Williston,ND,Public,Two-year (public and private not-for-profit),True,,4468.000,21.931,14.718,3.228,0.420,47467.000,0.261,1.401
+Glendale Community College,Glendale,CA,Public,Two-year (public and private not-for-profit),True,,9504.000,21.886,32.359,7.082,0.413,45187.000,0.423,0.948
+Minot State University,Minot,ND,Public,Selective public,True,0.646,9148.000,21.798,9.394,2.048,0.449,53286.000,0.294,1.388
+Catawba College,Salisbury,NC,Private nonprofit,Selective private,True,0.752,11010.000,21.743,5.759,1.252,0.482,49173.000,0.403,1.210
+Western Oregon University,Monmouth,OR,Public,Selective public,True,0.981,10363.000,21.638,5.786,1.252,0.445,52922.000,0.459,1.248
+Oakland University,Rochester Hills,MI,Public,Selective public,True,0.878,8052.000,21.627,5.097,1.102,0.580,61657.000,0.387,1.313
+California State University-Dominguez Hills,Carson,CA,Public,Selective public,True,0.933,6002.000,21.282,26.318,5.601,0.417,60075.000,0.683,0.791
+State University of New York at Oswego,Oswego,NY,Public,Selective public,True,0.805,9636.000,21.164,8.143,1.723,0.582,59233.000,0.428,1.306
+San Jacinto Community College,Pasadena,TX,Public,Two-year (public and private not-for-profit),True,,1257.000,21.093,12.485,2.633,,44435.000,0.349,0.975
+University of Holy Cross,New Orleans,LA,Private nonprofit,Selective private,True,0.737,4833.000,21.064,8.793,1.852,0.429,51268.000,0.252,
+Texas A&M University-Kingsville,Kingsville,TX,Public,Selective public,True,0.909,11387.000,20.836,25.405,5.294,0.450,52967.000,0.568,1.063
+University of West Georgia,Carrollton,GA,Public,Selective public,True,0.516,10004.000,20.821,7.034,1.465,0.437,49664.000,0.403,1.182
+Louisiana Tech University,Ruston,LA,Public,Selective public,True,0.864,9657.000,20.734,10.711,2.221,0.606,53370.000,0.254,1.298
+Taft College,Taft,CA,Public,Two-year (public and private not-for-profit),True,,4362.000,20.628,16.318,3.366,,,0.251,0.966
+Southwestern Adventist University,Keene,TX,Private nonprofit,Selective private,True,0.784,11510.000,20.509,11.157,2.288,0.495,54707.000,0.461,1.185
+Saginaw Valley State University,University Center,MI,Public,Selective public,True,0.721,9300.000,20.318,6.357,1.292,0.506,50055.000,0.409,1.069
+New Castle School of Trades,New Castle,PA,Private for-profit,Two-year for-profit,True,,9406.000,20.282,20.639,4.186,0.780,45272.000,0.665,
+University of Louisiana at Lafayette,Lafayette,LA,Public,Selective public,True,0.870,12120.000,20.144,13.467,2.713,0.521,49559.000,0.454,1.155
+McNeese State University,Lake Charles,LA,Public,Selective public,True,0.783,9708.000,19.987,12.793,2.557,0.474,46398.000,0.408,1.216
+Colorado Northwestern Community College,Rangely,CO,Public,Two-year (public and private not-for-profit),True,,4576.000,19.905,9.591,1.909,,44700.000,0.158,1.010
+The University of Texas Rio Grande Valley,Edinburg,TX,Public,Selective public,True,0.942,3980.000,19.763,38.703,7.649,0.547,51107.000,0.681,0.777
+University of North Carolina Wilmington,Wilmington,NC,Public,Selective public,True,0.642,11568.000,19.721,3.609,0.712,0.716,54470.000,0.275,1.379
+New Mexico Junior College,Hobbs,NM,Public,Two-year (public and private not-for-profit),True,,5622.000,19.684,22.042,4.339,0.473,,0.269,1.196

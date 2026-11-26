@@ -1,0 +1,10 @@
+param,label,low_value,high_value,npv_at_low,npv_at_high,swing
+d_ba,Effect on bachelor's completion (percentage points),0,2,1053,9337,8284
+d_grad,Effect on HS graduation (percentage points),0,4,71,8214,8143
+discount,Real discount rate,0,0,4553,196,4357
+causal_share,Share of the earnings gap caused by the degree,0,1,1222,5027,3805
+cost_per_year,Program cost per participant per year ($),1200,3500,3924,1624,2300
+years,Years in program,1,2,3124,1124,2000
+growth,Real earnings growth per year,0,0,2541,3798,1257
+forgone_share,Share of HS earnings forgone while in college,0,1,3297,2952,344
+net_price,"College net price per year, $0-30k families ($)",5423,10536,3179,3087,92

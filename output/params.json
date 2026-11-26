@@ -1,0 +1,109 @@
+{
+  "earnings": {
+    "less_than_hs": 37598,
+    "hs_diploma": 48072,
+    "bachelors": 79758,
+    "source": "BLS CPS annual averages (2025, 11-month), age 25+, full-time wage & salary median weekly x 52 x (1 - unemployment rate)"
+  },
+  "params": {
+    "cost_per_year": {
+      "label": "Program cost per participant per year ($)",
+      "central": 2000,
+      "low": 1200,
+      "high": 3500,
+      "dist": "triangular",
+      "basis": "Illustrative: replace with your program's budget"
+    },
+    "years": {
+      "label": "Years in program",
+      "central": 1,
+      "low": 1,
+      "high": 2,
+      "dist": "fixed",
+      "basis": "Program design"
+    },
+    "d_grad": {
+      "label": "Effect on HS graduation (percentage points)",
+      "central": 1.5,
+      "low": 0.0,
+      "high": 4.0,
+      "dist": "triangular",
+      "basis": "Illustrative: replace with evaluated effects (Project 03)"
+    },
+    "d_ba": {
+      "label": "Effect on bachelor's completion (percentage points)",
+      "central": 0.5,
+      "low": 0.0,
+      "high": 2.0,
+      "dist": "triangular",
+      "basis": "Illustrative"
+    },
+    "causal_share": {
+      "label": "Share of the earnings gap caused by the degree",
+      "central": 0.75,
+      "low": 0.5,
+      "high": 1.0,
+      "dist": "uniform",
+      "basis": "Raw gaps include selection; returns-to-schooling research supports most, not all"
+    },
+    "discount": {
+      "label": "Real discount rate",
+      "central": 0.03,
+      "low": 0.02,
+      "high": 0.07,
+      "dist": "fixed",
+      "basis": "3% common for social programs; 7% conservative"
+    },
+    "growth": {
+      "label": "Real earnings growth per year",
+      "central": 0.005,
+      "low": 0.0,
+      "high": 0.01,
+      "dist": "uniform",
+      "basis": "Assumption"
+    },
+    "tax_rate": {
+      "label": "Taxes as share of earnings gains",
+      "central": 0.22,
+      "low": 0.15,
+      "high": 0.3,
+      "dist": "uniform",
+      "basis": "Federal + state + payroll; assumption"
+    },
+    "net_price": {
+      "label": "College net price per year, $0-30k families ($)",
+      "central": 8474.0,
+      "low": 5423.0,
+      "high": 10536.0,
+      "dist": "uniform",
+      "basis": "Median and quartiles at Project 04 bridge colleges (College Scorecard)"
+    },
+    "forgone_share": {
+      "label": "Share of HS earnings forgone while in college",
+      "central": 0.5,
+      "low": 0.3,
+      "high": 0.7,
+      "dist": "fixed",
+      "basis": "Many students work; assumption"
+    }
+  },
+  "central_results": {
+    "benefits": 5124.4252,
+    "cost": 2000.0,
+    "npv": 3124.4252,
+    "bcr": 2.5622,
+    "public": 1255.4925,
+    "participant": 3868.9327,
+    "pv_hs_premium": 203564.3541,
+    "pv_ba_net": 414191.9829,
+    "breakeven_d_grad_pp": 0.9825
+  },
+  "monte_carlo": {
+    "draws": 10000,
+    "prob_positive_npv": 0.9797,
+    "bcr_p5": 1.277,
+    "bcr_median": 3.082,
+    "bcr_p95": 6.429,
+    "public_share_of_benefits_median": 0.255
+  }
+}
